@@ -41,10 +41,8 @@ Some good rules to add to this file:
 *.dmg
 *.gz
 *.iso
-*.jar
 *.rar
 *.tar
-*.zip
 
 # Logs and databases #
 ######################
